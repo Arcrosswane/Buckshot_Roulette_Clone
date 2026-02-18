@@ -31,7 +31,7 @@ Use these to tilt the odds in your favor:
 - **🔍 Lens**: Inspect the current shell (Note: Sudden Death bullets hide from this!).
 - **⚡ Inverter**: Flips the current shell's polarity (Live ↔ Blank).
 - **🎁 Mystery Box**: Triggers a random chaotic event (Heal, Harm, or Loot).
-- **💎 Diamond**: The rarest item. Allows you to "Wish" for any item in the game.
+- **💎 Diamond**: The rarest item. Allows you to "Wish" for any item in the game and if any of it exists in the game (not including your) then it will be dissapeared now only you will have that thing.
 
 ## ⚠️ Chaos Mechanics
 
@@ -55,3 +55,4 @@ Use these to tilt the odds in your favor:
 ---
 
 _May the odds be ever in your favor._
+
